@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-  int i,f=1,num=4
+  int i,f=1,num=4;
  for(i=1;i<=num;i++)
       f=f*i;
  
